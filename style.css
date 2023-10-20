@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #ccc;
+}
+.baslik{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    text-shadow: 10px 5px 12px;
+    
+    
+}.title{
+    text-transform: capitalize;
+    margin-left: 100px;
+    font-size: large;
+    
+}
+.resim{
+    margin: auto;
+    width: 80%;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+.kapsayici{
+    margin-left: 300px;
+    font-size: x-large;
+}
+.yorum{
+    margin:10px 5px 20px 5px;
+    text-align: center;
+}
+.fmyrm{
+    text-align: center;
+    font-size: x-large;
+}
+.fragman{
+    width: 80%;
+    height: 500px;
+    margin-left: 200px;
+}
+.button{
+    width: 150px;
+    height: 50px;
+    margin-left: 900px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    background-color: red;
+    font-family: 'Kanit', sans-serif;
+    font-size: xx-large;
+}
+.button:hover{
+    background-color: rgb(238, 90, 90);
+}
